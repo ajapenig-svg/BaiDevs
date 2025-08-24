@@ -1,0 +1,158 @@
+  .img1{
+    width: 400px;
+    height: 400px;
+    border-radius: 50px;
+    object-fit: cover;
+
+  }
+
+  #main{
+    font-family: "Press Start 2p", "consolas", sans-serif;
+    font-weight: bold;
+    color: green;
+    font-size: 75px;
+    margin-left: 224px;
+
+
+  }
+  body{
+    background-color: burlywood;
+  }
+
+#members{
+    font-size: 60px;
+    margin-left: 583px;
+    margin-top: -20px;
+}
+#im1{
+    margin-left: 541px;
+    margin-top: 180px;
+}
+#m1{
+    font-size: 50px;
+    top: 341px;
+    position: absolute;
+    right: 525px;
+      
+
+}
+#mm1{
+    position: absolute;
+    font-size: 38px;
+    font: bold;
+    color: black;   
+        right: 675px;
+    bottom: -44px;
+}
+#im2{
+    position: absolute;
+    top: 1022px;
+}
+#im3{
+    position: absolute;
+    top: 1022px;
+    left: 172px;
+}    
+#im4{
+    position:absolute;
+    top: 1600px;
+    right: 172px;
+    
+}
+#im5{
+    position:absolute;
+    top: 1600px;
+    left: 172px;
+    
+}
+
+#m2{
+    font-size: 50px;
+    top: 912px;
+    position: absolute;
+    right:218px;
+   
+      
+
+}
+#m3{
+        font-size: 50px;
+    top: 912px;
+    position: absolute;
+    left: 220px;
+    
+      
+
+}
+ #m4{
+    font-size: 50px;
+    position: absolute;
+    top: 1491px;
+    right: 218px;
+    
+ }
+
+
+#m5{
+    font-size: 50px;
+    position: absolute;
+    top: 1491px;
+    left: 220px;
+      
+
+}
+
+#mm2{
+    position: absolute;
+    font-size: 38px;
+    font: bold;
+    color: black;   
+    top: 1417px;
+    right:190px;
+
+}
+#mm3{
+    position: absolute;
+    font-size: 38px;
+    font: bold;
+    color: black;   
+    top: 1417px;
+    left: 265px;
+
+}
+#mm4{
+    position: absolute;
+    font-size: 38px;
+    font: bold;
+    color: black;   
+    top: 2000px;
+    right: 250px;
+
+}
+#mm5{
+    position: absolute;
+    font-size: 38px;
+    font: bold;
+    color: black;   
+    top: 2000px;
+    left: 260px;
+
+}
+#origin{
+        position: absolute;
+    font-size: 21px;
+    font: bold;
+    color: red;
+    top: 5px;
+    right: 139px;
+
+}
+#projects{
+        position: absolute;
+    font-size: 21px;
+    font: bold;
+    color: red;
+    top: 5px;
+    right: 41px;
+
+}
